@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    width: 70%;
+    margin-left: 15%;
+}
+#t2 {
+    background-color: #C89AE4;
+    padding: 10px;
+}
+#t1 {
+    background-color: #BE96CC;
+    padding: 10px;
+}
+#t1 {
+    background-color: #83A4A7;
+    padding: 10px;
+}
+#t1 {
+    background-color: #5C94A4;
+    padding: 10px;
+}
+#t1 {
+    background-color: #ADE0E9;
+    padding: 10px;
+}
+#t1 {
+    background-color: #D3A7E3;
+    padding: 10px;
+}
+#t1 {
+    background-color: #A3E88A;
+    padding: 10px;
+}
+#t1 {
+    background-color: #97D165;
+    padding: 10px;
+}
+#t2 {
+    background-color: #E39F29;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #98D065;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #E39F29;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #98D065;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#t1 p img {
+    float: left;
+    padding-right: 18px;
+}
+#t2 h1 img {
+}
+#t2 p img {
+    float: right;
+}
+#t3 p img {
+    float: left;
+    padding-right: 18px;
+}
+#t4 p img {
+    float: right;
+}
+#t5 p img {
+    float: left;
+<img src="images/masterchef.jpg" width="2560" height="1920" alt=""/>
+    padding-right: 18px;
+    padding-right: 18px;
+}
+#comida {
+    background-color: #8DB9EE;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    position: fixed;
+    border-radius: 0px;
+}
+#comida h1 img {
+    padding-right: 22px;
+}
